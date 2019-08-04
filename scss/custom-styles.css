@@ -71,7 +71,7 @@
 
 
 img {
-  border-radius: 10%;
+  border-radius: 5%;
 
 }
 
@@ -12172,7 +12172,7 @@ label {
 .card.bg-info,
 .card.card-rotate.bg-info .front,
 .card.card-rotate.bg-info .back {
-  background: linear-gradient(60deg, #076ff7, #013c8a);
+  background: linear-gradient(0deg, #4285F4, #4285F4);
 }
 
 .card .card-header-success .card-icon,
@@ -12181,7 +12181,7 @@ label {
 .card.bg-success,
 .card.card-rotate.bg-success .front,
 .card.card-rotate.bg-success .back {
-  background: linear-gradient(60deg, #2b2b2b, #1b1c1b);
+  background: linear-gradient(0deg, #2E2E2E, #2E2E2E);
 }
 
 .card .card-header-warning .card-icon,
