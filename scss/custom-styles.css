@@ -68,7 +68,19 @@
   height: 200px; 
   width: 200px;
 }
+.card-special {
+  position: relative;
+  padding-bottom: 40px;
+}
 
+.btn-special {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  -ms-transform:: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
 
 img {
   border-radius: 5%;
